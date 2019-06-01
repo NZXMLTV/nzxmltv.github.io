@@ -21,30 +21,30 @@ SKY one, as Freeview provides significantly more (and higher quality) data, mean
 
 ## Adding it to Plex
 This setup assumes you have no setup Live TV / DVR yet. If you need to add the XMLTV to an exisiting setup, click the Delete DVR link on the DVR settings page:
-![image|690x291,75%](https://aws1.discourse-cdn.com/plex/original/3X/b/1/b18c515198cdc417aa244fbbb7dca7266996da91.jpeg) 
+![image](https://aws1.discourse-cdn.com/plex/original/3X/b/1/b18c515198cdc417aa244fbbb7dca7266996da91.jpeg) 
 Your scheduled recordings will be preserved.
 
 
-![image|629x500,75%](https://aws1.discourse-cdn.com/plex/original/3X/1/b/1bed660f6815045efbab9d3f8843f054358c7e03.png)
+![image](https://aws1.discourse-cdn.com/plex/original/3X/1/b/1bed660f6815045efbab9d3f8843f054358c7e03.png)
 1. Select the device you want to setup and click Continue.
 
-![image|633x500,75%](https://aws1.discourse-cdn.com/plex/original/3X/2/a/2acc20e17c62697d166782cb974373598a0a52f0.png) 
+![image](https://aws1.discourse-cdn.com/plex/original/3X/2/a/2acc20e17c62697d166782cb974373598a0a52f0.png) 
 
 2. Select a random country (as NZ is no longer available). I went with the UK since they use the same TV standard as us, but it shouldn't matter. The fact you have to pick a country is a bug that Plex is aware of (based off the forum posts I've seen).
 
-![image|629x500,75%](https://aws1.discourse-cdn.com/plex/original/3X/e/b/eb8555b54097299d79da3cc81e4d970a5e9c16d1.png) 
+![image](https://aws1.discourse-cdn.com/plex/original/3X/e/b/eb8555b54097299d79da3cc81e4d970a5e9c16d1.png) 
 
 3. Click Scan Channels and then select 'DVB-T/T2 Europe (Full frequency range)'. Then click Scan Channels again. Plex will now scan for channels. This may take a while depending on your signal strength. Once it is done click continue.
 
-![image|643x500,75%](https://aws1.discourse-cdn.com/plex/original/3X/5/2/5204ce882dfcf0d2ab4f07f89d995f9976bdc306.png) 
+![image](https://aws1.discourse-cdn.com/plex/original/3X/5/2/5204ce882dfcf0d2ab4f07f89d995f9976bdc306.png) 
 
 4. On the next screen click the XMLTV link.
 
-![image|634x500,75%](https://aws1.discourse-cdn.com/plex/original/3X/6/1/616554343e8ba89677f792a6d423d7d26fbf8d9b.png) 
+![image](https://aws1.discourse-cdn.com/plex/original/3X/6/1/616554343e8ba89677f792a6d423d7d26fbf8d9b.png) 
 
 5. Select English as the language, and enter either the SKY or Freeview link into the 'XMLTV Guide' field. Do not use a file from your computer, despite what the suggested text says. Give it a title, this doesn't really matter, so it can be anything.
 
-![image|632x499,75%](https://aws1.discourse-cdn.com/plex/original/3X/f/a/fa30b2979a1867636b4d19acadd3ca6a692c4eef.png) 
+![image](https://aws1.discourse-cdn.com/plex/original/3X/f/a/fa30b2979a1867636b4d19acadd3ca6a692c4eef.png) 
 
 6. You will now see the channel mapping screen. These should be automatically filled out. You can disable any channels you don't want at this stage.
 
